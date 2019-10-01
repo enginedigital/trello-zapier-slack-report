@@ -40,6 +40,12 @@ watchList - Trello list to report on (single value OR comma-separated)
 slackUrl - The webhook URL for Slack
 ```
 
+* fill in the input data with details from the above list
+* paste the contents of `index.js` into the `code` field
+* click continue
+* test the code and "review"
+* turn the zap on
+
 #### Setup The Schedule
 
 ![Screen 1](screen1.png)
