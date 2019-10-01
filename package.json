@@ -1,0 +1,15 @@
+{
+  "name": "trello-zapier-slack-report",
+  "version": "1.0.0",
+  "description": "Run a daily Trello report in Slack using a scheduled Zapier task",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Engine Digital <dev@enginedigital.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
