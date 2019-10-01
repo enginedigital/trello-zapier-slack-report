@@ -3,6 +3,8 @@ trello-zapier-slack-report
 
 > Run a daily Trello report in Slack using a scheduled Zapier task
 
+![Example of the bot post](example.png)
+
 ## Prerequisites
 
 * [Slack webhook](https://api.slack.com/incoming-webhooks#create_a_webhook)
